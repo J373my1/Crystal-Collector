@@ -1,0 +1,65 @@
+
+
+h1 {
+	color: green;
+	background-color: lihtblue;
+	font-size: 50px;
+	text-align: center;
+	margin: 40px;
+} 
+
+.crystal-image {
+	width: 200px;
+	height: 200px;
+	border: 2px solid;
+	border-radius: 50%;
+}
+
+
+
+#head {
+	margin: 40px;
+}
+
+.container {
+	
+}
+
+#crystals {
+	left: 50px;
+	right: 50px;
+	opacity: .8;
+	
+
+}
+
+#space {
+	padding: 40px;
+	margin: 40px;
+	background-color: lightblue;
+	box-shadow: 10px 10px 5px purple;
+	opacity: .9;
+}
+
+p {
+	color: purple;
+	font-size: 25px;
+	
+}
+
+ #goal {
+	font-size: 40px;
+	text-align: left;
+}
+
+
+	
+
+
+
+
+
+
+
+
+
